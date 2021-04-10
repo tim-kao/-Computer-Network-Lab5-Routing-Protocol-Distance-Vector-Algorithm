@@ -2,7 +2,8 @@
 
 ## Overview ##
 Lab 5: Routing Algorithm Distance Vector \
-Implement Bellman-Ford algorithm and run on four separate machines.
+Implement the Bellman-Ford algorithm and run it on four separate machines.
+
 
 ## Demo ##
 ## Test Scenario ## 
@@ -22,9 +23,9 @@ Implement Bellman-Ford algorithm and run on four separate machines.
 3. Receive the routing table from neighbors
 4. Update the routing table based on (3)
 ##  Usage Examples ##
-paris.clic.cs.columbia.edu		python3 dvrouter.py paris:0 berlin:7 minsk:2
-berlin.clic.cs.columbia.edu		python3 dvrouter.py paris:7 khartoum:1 berlin:0 minsk:3
-minsk.clic.cs.columbia.edu		python3 dvrouter.py paris:2 khartoum:1 berlin:3 minsk:0
+paris.clic.cs.columbia.edu		python3 dvrouter.py paris:0 berlin:7 minsk:2 \
+berlin.clic.cs.columbia.edu		python3 dvrouter.py paris:7 khartoum:1 berlin:0 minsk:3 \
+minsk.clic.cs.columbia.edu		python3 dvrouter.py paris:2 khartoum:1 berlin:3 minsk:0 \
 khartoum.clic.cs.columbia.edu 	dvrouter.py khartoum:0 berlin:1 minsk:1
    
 ## Contributor ##
