@@ -1,4 +1,4 @@
-# -Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm
+# Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm
 
 ## Overview ##
 Lab 5: Routing Algorithm Distance Vector \
