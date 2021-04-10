@@ -1,0 +1,98 @@
+sk4920@khartoum:~/CN/HW5$ python3 dvrouter.py khartoum:0 berlin:1 minsk:1
+['dvrouter.py', 'khartoum:0', 'berlin:1', 'minsk:1']
+Initialize an udp socket at('0.0.0.0', 48494)
+cost to  berlin  is  1
+cost to  khartoum  is  0
+cost to  minsk  is  1
+start in 10 seconds
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to minsk.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.60', 48494) with data:{
+    "berlin": 0,
+    "paris": 7,
+    "khartoum": 1,
+    "minsk": 3
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+cost to  berlin  is  1
+cost to  paris  is  8
+cost to  khartoum  is  0
+cost to  minsk  is  1
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to minsk.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.33', 48494) with data:{
+    "berlin": 3,
+    "khartoum": 1,
+    "minsk": 0,
+    "paris": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+cost to  berlin  is  1
+cost to  paris  is  3
+cost to  khartoum  is  0
+cost to  minsk  is  1
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to minsk.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.60', 48494) with data:{
+    "berlin": 0,
+    "paris": 7,
+    "khartoum": 1,
+    "minsk": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+cost to  berlin  is  1
+cost to  paris  is  3
+cost to  khartoum  is  0
+cost to  minsk  is  1
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to minsk.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.33', 48494) with data:{
+    "berlin": 2,
+    "khartoum": 1,
+    "minsk": 0,
+    "paris": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+cost to  berlin  is  1
+cost to  paris  is  3
+cost to  khartoum  is  0
+cost to  minsk  is  1
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to minsk.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.60', 48494) with data:{
+    "berlin": 0,
+    "paris": 7,
+    "khartoum": 1,
+    "minsk": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+cost to  berlin  is  1
+cost to  paris  is  3
+cost to  khartoum  is  0
+cost to  minsk  is  1
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to minsk.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.33', 48494) with data:{
+    "berlin": 2,
+    "khartoum": 1,
+    "minsk": 0,
+    "paris": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+cost to  berlin  is  1
+cost to  paris  is  3
+cost to  khartoum  is  0
+cost to  minsk  is  1
+sk4920@khartoum:~/CN/HW5$
