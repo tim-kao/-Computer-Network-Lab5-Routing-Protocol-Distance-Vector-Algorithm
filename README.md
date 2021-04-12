@@ -12,10 +12,10 @@ Implement the Bellman-Ford algorithm and run it on four separate machines.
 ## Execution ##
 ![image](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/demo/execution.png)
 
-[paris log](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/log/paris.log) \
-[berlin log](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/log/berlin.log) \
+[Paris log](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/log/Paris.log) \
+[Berlin log](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/log/berlin.log) \
 [Vienna log](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/log/Vienna.log) \
-[rome log](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/log/rome.log)
+[Rome log](https://github.com/tim-kao/-Computer-Network-Lab5-Routing-Protocol-Distance-Vector-Algorithm/blob/main/log/rome.log)
 
 ## Feature ##
 1. Initialization and Start
