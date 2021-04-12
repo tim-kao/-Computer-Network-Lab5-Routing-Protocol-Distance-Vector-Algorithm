@@ -1,0 +1,125 @@
+['berlin:3', 'rome:1', 'paris:2']
+Initialize an udp socket at('0.0.0.0', 48494)
+hostname: vienna
+cost to  berlin  is  3
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
+start in 3 seconds
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to rome.clic.cs.columbia.edu
+sending routing table to paris.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.24', 48494) with data:{
+    "berlin": 1,
+    "rome": 0,
+    "vienna": 1
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+hostname: vienna
+cost to  berlin  is  2
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to rome.clic.cs.columbia.edu
+sending routing table to paris.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.32', 48494) with data:{
+    "berlin": 7,
+    "paris": 0,
+    "vienna": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+hostname: vienna
+cost to  berlin  is  2
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to rome.clic.cs.columbia.edu
+sending routing table to paris.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.24', 48494) with data:{
+    "paris": 3,
+    "berlin": 1,
+    "rome": 0,
+    "vienna": 1
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+hostname: vienna
+cost to  berlin  is  2
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to rome.clic.cs.columbia.edu
+sending routing table to paris.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.32', 48494) with data:{
+    "berlin": 5,
+    "rome": 3,
+    "paris": 0,
+    "vienna": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+hostname: vienna
+cost to  berlin  is  2
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to rome.clic.cs.columbia.edu
+sending routing table to paris.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.60', 48494) with data:{
+    "paris": 7,
+    "vienna": 3,
+    "berlin": 0,
+    "rome": 1
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+hostname: vienna
+cost to  berlin  is  2
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to rome.clic.cs.columbia.edu
+sending routing table to paris.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.24', 48494) with data:{
+    "paris": 3,
+    "berlin": 1,
+    "rome": 0,
+    "vienna": 1
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+hostname: vienna
+cost to  berlin  is  2
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
+sending routing table to berlin.clic.cs.columbia.edu
+sending routing table to rome.clic.cs.columbia.edu
+sending routing table to paris.clic.cs.columbia.edu
+Receiving data from host:('128.59.15.32', 48494) with data:{
+    "berlin": 4,
+    "rome": 3,
+    "paris": 0,
+    "vienna": 2
+}
+starting update routing table
+update routing table complete
+new table is updated as follows
+hostname: vienna
+cost to  berlin  is  2
+cost to  rome  is  1
+cost to  vienna  is  0
+cost to  paris  is  2
