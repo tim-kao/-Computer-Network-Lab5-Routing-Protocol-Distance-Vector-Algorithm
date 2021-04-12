@@ -26,7 +26,7 @@ Implement the Bellman-Ford algorithm and run it on four separate machines.
 On Berlin (Node 0) run: python3 dvrouter.py rome:1 paris:7 vienna:3 \
 On Rome (Node 1) run: python3 dvrouter.py berlin:1 vienna:1 \
 On Vienna(Node 2) run: python3 dvrouter.py berlin:3 rome:1 paris:2 \
-On Paris (Node 3) run: python3 dvrouter.py berlin:7 vienna:2 \
+On Paris (Node 3) run: python3 dvrouter.py berlin:7 vienna:2 
    
 ## Contributor ##
 #### [Tim Kao](https://github.com/tim-kao) (UNI: sk4920)
